@@ -1,3 +1,5 @@
+package stackEx;
+
 import java.util.Stack;
 
 public class InBuiltExamples {
@@ -14,5 +16,7 @@ public class InBuiltExamples {
         System.out.println(stack.pop());
         System.out.println(stack.pop());
         System.out.println(stack.pop());
+
+        //time Complexity = constant
     }
 }
