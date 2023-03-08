@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23c6194a-44e6-482a-b778-94ed7997f985" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/queue/dequeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stackEx/CustomStack.java" afterDir="false" />
+    <list default="true" id="23c6194a-44e6-482a-b778-94ed7997f985" name="Changes" comment="initial stack Implementations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/queue/inBuitExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queue/inBuitExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stackEx/InBuiltExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stackEx/InBuiltExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,21 +85,7 @@
       <option name="project" value="LOCAL" />
       <updated>1678273856404</updated>
     </task>
-    <task id="LOCAL-00002" summary="initial stack Implementations">
-      <created>1678274943425</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1678274943425</updated>
-    </task>
-    <task id="LOCAL-00003" summary="initial stack Implementations">
-      <created>1678274976733</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1678274976733</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,7 +101,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial stack Implementations" />
-    <MESSAGE value="initial stacks Implementations" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial stacks Implementations" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial stack Implementations" />
   </component>
 </project>
