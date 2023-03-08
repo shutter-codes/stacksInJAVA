@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23c6194a-44e6-482a-b778-94ed7997f985" name="Changes" comment="initial stack Implementations">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/queue/inBuitExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queue/inBuitExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stackEx/InBuiltExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stackEx/InBuiltExamples.java" afterDir="false" />
-    </list>
+    <list default="true" id="23c6194a-44e6-482a-b778-94ed7997f985" name="Changes" comment="initial stack Implementations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678273856404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial stack Implementations">
+      <created>1678274943425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678274943425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
